@@ -1,2 +1,2 @@
 # spring_backend
-![alt text](spring_backend/th.jpg)
+![alt text](github.com/javadev31/spring_backend/th.jpg)
