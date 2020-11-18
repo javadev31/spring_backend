@@ -1,0 +1,1 @@
+CREATE SCHEMA `trustmeenglish` DEFAULT CHARACTER SET utf8 ;
